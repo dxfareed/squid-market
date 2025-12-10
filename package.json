@@ -1,8 +1,7 @@
-
 {
-  "name": "marketplace-tests",
+  "name": "bob-market",
   "version": "1.0.0",
-  "description": "Run unit tests on this project.",
+  "description": "Bob Market - Reputation-based Marketplace with Expiry",
   "type": "module",
   "private": true,
   "scripts": {
